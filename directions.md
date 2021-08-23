@@ -1,4 +1,4 @@
-# Personal data projects
+# Personal data projects.
 
 Use this template repo for your personal data projects. Would you please use the following format for your repository? Please name your repository in your personal space using the following naming structure `[title]-[lastname]-[languagesused]`.  You will then complete a pull request to move your personal data projects into our organization.
 
